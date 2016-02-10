@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN42048ucmf_3_0330.png"; bbox 0 0 2182 3277; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 420 1249 625 1278">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 420 1249 625 1278">
+     <span class='ocr_line' id='line_1_1' title="bbox 420 1249 625 1278; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 420 1249 464 1278; x_wconf 82' lang='lat' dir='ltr'>DE&#39;S</span> <span class='ocrx_word' id='word_1_2' title='bbox 482 1249 577 1278; x_wconf 86' lang='lat' dir='ltr'><strong>PRESSES</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 594 1249 625 1277; x_wconf 70' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 324 1332 728 1631">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 324 1332 728 1557">
+     <span class='ocr_line' id='line_1_2' title="bbox 346 1332 704 1366; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 346 1332 505 1366; x_wconf 77' lang='lat' dir='ltr'><strong>L’IMPRIMERIE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 519 1340 660 1366; x_wconf 80' lang='lat' dir='ltr'>POLYGLOTTE</span> <span class='ocrx_word' id='word_1_6' title='bbox 673 1340 704 1365; x_wconf 87' lang='lat' dir='ltr'>DE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 324 1402 728 1457; baseline 0.005 -3"><span class='ocrx_word' id='word_1_7' title='bbox 324 1419 412 1455; x_wconf 82' lang='lat' dir='ltr'>JULES</span> <span class='ocrx_word' id='word_1_8' title='bbox 425 1420 464 1455; x_wconf 84' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_9' title='bbox 477 1414 612 1456; x_wconf 78' lang='lat' dir='ltr'><strong>MEESTER</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 625 1430 652 1455; x_wconf 83' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_11' title='bbox 665 1402 728 1457; x_wconf 68' lang='lat' dir='ltr'>FiLs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 373 1501 684 1557; baseline 0.003 -15"><span class='ocrx_word' id='word_1_12' title='bbox 373 1501 538 1543; x_wconf 84' lang='lat' dir='ltr'>WETTEREN</span> <span class='ocrx_word' id='word_1_13' title='bbox 550 1508 684 1557; x_wconf 63' lang='lat' dir='ltr'><strong>(BELGJQUE)</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 456 1596 596 1631">
+     <span class='ocr_line' id='line_1_5' title="bbox 456 1596 596 1631; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 456 1597 467 1631; x_wconf 78' lang='lat'>9</span> <span class='ocrx_word' id='word_1_15' title='bbox 480 1615 488 1620; x_wconf 97' lang='lat'>-</span> <span class='ocrx_word' id='word_1_16' title='bbox 499 1596 511 1631; x_wconf 81' lang='lat'><strong>6</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 523 1614 531 1620; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_18' title='bbox 543 1596 596 1631; x_wconf 77' lang='lat'>1925</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1096 3277">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1096 3277">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1096 3277; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1096 3277; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
